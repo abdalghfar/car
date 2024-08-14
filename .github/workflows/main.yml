@@ -1,4 +1,4 @@
-name: car
+name: Build APK
 
 on:
   # Runs on push to any of the below branches
